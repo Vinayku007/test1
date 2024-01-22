@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+echo "<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -199,4 +199,4 @@
     <script src="timeTable.js"></script>
     <script src="app.js"></script>
 </body>
-</html>
+</html>" > /var/www/html/index.html
